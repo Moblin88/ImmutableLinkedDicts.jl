@@ -1,0 +1,4 @@
+name = "ImmutableLinkedDict"
+uuid = "e42d6adb-6d26-4581-8239-98eb8db833f1"
+authors = ["Nicholas Engelking <moblin88@me.com>"]
+version = "0.1.0"
