@@ -1,5 +1,5 @@
-module ImmutableLinkedDict
+module ImmutableLinkedDicts
 
 greet() = print("Hello World!")
 
-end # module ImmutableLinkedDict
+end # module ImmutableLinkedDicts
